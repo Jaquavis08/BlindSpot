@@ -12,6 +12,7 @@ public class Door : MonoBehaviour
 
     public List<PressureSwitch> currentSwitchesOpen = new();
 
+    //PressurePlate switch
     public void AddPressureSwitch(PressureSwitch currentSwitch)
     {
         if (!currentSwitchesOpen.Contains(currentSwitch))
@@ -22,6 +23,25 @@ public class Door : MonoBehaviour
     }
 
     public void RemovePressureSwitch(PressureSwitch currentSwitch)
+    {
+        if (currentSwitchesOpen.Contains(currentSwitch))
+        {
+            currentSwitchesOpen.Remove(currentSwitch);
+        }
+        TryOpen();
+    }
+
+    //Control Panel switch
+    public void AddControlPanel(PressureSwitch currentSwitch)
+    {
+        if (!currentSwitchesOpen.Contains(currentSwitch))
+        {
+            currentSwitchesOpen.Add(currentSwitch);
+        }
+        TryOpen();
+    }
+
+    public void RemoveControlPanel(PressureSwitch currentSwitch)
     {
         if (currentSwitchesOpen.Contains(currentSwitch))
         {
