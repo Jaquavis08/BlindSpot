@@ -25,9 +25,9 @@ public class GunUpdater : MonoBehaviour
     {
         if (WeaponHolder.GetComponentInChildren<Shooting>() != null || WeaponHolder.GetComponentInChildren<SpriteRenderer>() != null)
         {
-            if (WeaponHolder.GetComponentInChildren<SpriteRenderer>().gameObject.name == "Flashlight")
+            if (WeaponHolder.GetComponentInChildren<SpriteRenderer>().gameObject.name == "Gun")
             {
-                Name.text = "Flashlight";
+                Name.text = "Gun";
                 MagAndAmmo.text = infinitySymbol + "/" + infinitySymbol;
                 Image.GetComponent<Image>().sprite = Flashlight;
             }
@@ -35,7 +35,7 @@ public class GunUpdater : MonoBehaviour
             {
                 Name.text = WeaponHolder.GetComponentInChildren<Shooting>().name;
                 MagAndAmmo.text = WeaponHolder.GetComponentInChildren<Shooting>().MagAmount + "/" + WeaponHolder.GetComponentInChildren<Shooting>().Ammo;
-                Image.GetComponent<Image>().sprite = WeaponHolder.GetComponentInChildren<Shooting>().GunSprite;
+                //Image.GetComponent<Image>().sprite = WeaponHolder.GetComponentInChildren<Shooting>().GunSprite;
             }
         }
         else

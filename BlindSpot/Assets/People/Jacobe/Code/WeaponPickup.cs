@@ -76,7 +76,7 @@ public class WeaponPickedup : MonoBehaviour
 
         foreach (var collider in nearbyWeapons)
         {
-            if (collider.CompareTag("Weapon") && collider.transform.parent != WeaponHolder.transform)
+            if (collider.CompareTag("Gun") && collider.transform.parent != WeaponHolder.transform)
             {
                 //if (collider.name == "Ammo")
                 //{

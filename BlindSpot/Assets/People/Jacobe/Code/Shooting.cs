@@ -18,7 +18,7 @@ public class Shooting : MonoBehaviour
     private bool canShoot = true;
     private bool isShooting = false;
     public Sprite GunSprite;
-    //public string GunName = "Gun";
+    public string GunName = "Gun";
 
 
     private void Awake()
@@ -41,7 +41,7 @@ public class Shooting : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetButton("Fire1"))//Down
+        if (Input.GetButtonDown("Fire1"))
         {
             if (MagAmount <= 0 && MagAmount < MaxMagAmount) // && Ammo > 0
                 StartCoroutine(ReloadDelay());
@@ -49,10 +49,10 @@ public class Shooting : MonoBehaviour
                 StartCoroutine(ShootDelay());
         }
 
-        //if (Input.GetKeyDown(KeyCode.R) && MagAmount < MaxMagAmount && Ammo > 0)
-        //{
-        //    StartCoroutine(ReloadDelay());
-        //}
+        if (Input.GetKeyDown(KeyCode.R) && MagAmount < MaxMagAmount && Ammo > 0)
+        {
+            StartCoroutine(ReloadDelay());
+        }
     }
 
     private IEnumerator ShootBullet(GameObject bullet)
