@@ -3,7 +3,7 @@ using UnityEngine;
 public class PlayerMovement : MonoBehaviour
 {
     public bool moving = false;
-    float speed = 5f; 
+    float speed = 3f; 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
