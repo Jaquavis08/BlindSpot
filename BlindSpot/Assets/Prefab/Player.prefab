@@ -14,6 +14,7 @@ GameObject:
   - component: {fileID: 9138900258227002279}
   - component: {fileID: 7343959173139106132}
   - component: {fileID: 4534684774101240529}
+  - component: {fileID: 3556775809409901527}
   m_Layer: 6
   m_Name: Player
   m_TagString: Playera
@@ -35,6 +36,7 @@ Transform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 8328843017394454411}
+  - {fileID: 4836897360539751764}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1198070476299474269
@@ -190,6 +192,59 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 1
   m_Constraints: 0
+--- !u!114 &3556775809409901527
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2041013955828595805}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31a4cc1a0ae98e843989cef50344c45e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  FirePiont: {fileID: 4836897360539751764}
+  BulletPrefab: {fileID: 3426314546874687100, guid: 4168685a4c84d7543bd575bd1a76790f, type: 3}
+  MagAmount: 2000000000
+  MaxMagAmount: 2000000000
+  Ammo: 2000000000
+  BulletCooldown: 1.3
+  ReloadCooldown: 0
+  bulletForce: 20
+  GunSprite: {fileID: 0}
+  GunName: Gun
+--- !u!1 &2267768496104789474
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4836897360539751764}
+  m_Layer: 0
+  m_Name: Firepoint
+  m_TagString: Untagged
+  m_Icon: {fileID: -5442936267250999957, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4836897360539751764
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2267768496104789474}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: -0.7071068, w: 0.7071068}
+  m_LocalPosition: {x: 0.388, y: -0.085, z: -0.004186323}
+  m_LocalScale: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6840302524573751079}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: -90}
 --- !u!1 &4006902861234384531
 GameObject:
   m_ObjectHideFlags: 0

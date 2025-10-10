@@ -180,6 +180,10 @@ PrefabInstance:
       propertyPath: m_TagString
       value: Playera
       objectReference: {fileID: 0}
+    - target: {fileID: 3556775809409901527, guid: a585cf59284742d4f8960c6e9cb911f2, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6840302524573751079, guid: a585cf59284742d4f8960c6e9cb911f2, type: 3}
       propertyPath: m_LocalPosition.x
       value: 2.9175415
@@ -220,10 +224,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 3556775809409901527, guid: a585cf59284742d4f8960c6e9cb911f2, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 2041013955828595805, guid: a585cf59284742d4f8960c6e9cb911f2, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1988862269}
   m_SourcePrefab: {fileID: 100100000, guid: a585cf59284742d4f8960c6e9cb911f2, type: 3}
 --- !u!1 &1666317022
 GameObject:
@@ -1344,6 +1352,33 @@ Tilemap:
     e31: 0
     e32: 0
     e33: 1
+--- !u!1 &1988862261 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2041013955828595805, guid: a585cf59284742d4f8960c6e9cb911f2, type: 3}
+  m_PrefabInstance: {fileID: 1289862103}
+  m_PrefabAsset: {fileID: 0}
+--- !u!95 &1988862269
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1988862261}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 31277fd54d58e5f4e81626e23292d35d, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1001 &3332083849288779436
 PrefabInstance:
   m_ObjectHideFlags: 0
