@@ -19,10 +19,13 @@ public class Shooting : MonoBehaviour
     private bool isShooting = false;
     public Sprite GunSprite;
     public string GunName = "Gun";
+    private Animator animator;
 
 
     private void Awake()
     {
+        animator = GetComponent<Animator>();
+
         if (Instance != null && Instance != this)
         {
             Destroy(gameObject);
@@ -47,6 +50,8 @@ public class Shooting : MonoBehaviour
                 StartCoroutine(ReloadDelay());
             if (canShoot)
                 StartCoroutine(ShootDelay());
+
+            animator.SetTrigger("shoot");
         }
 
         if (Input.GetKeyDown(KeyCode.R) && MagAmount < MaxMagAmount && Ammo > 0)
