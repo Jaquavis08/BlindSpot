@@ -93,7 +93,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2103422605091787880}
-  - component: {fileID: 4305801567394435362}
   m_Layer: 0
   m_Name: FOVs
   m_TagString: Untagged
@@ -109,32 +108,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2439622278343773308}
   serializedVersion: 2
-  m_LocalRotation: {x: -0, y: -0, z: -0.7071067, w: 0.70710677}
-  m_LocalPosition: {x: -0.7390007, y: 0.19400011, z: 0.08532144}
+  m_LocalRotation: {x: -0, y: -0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.7390007, y: -0.015, z: 0.08532144}
   m_LocalScale: {x: 1.3438783, y: 3.3134515, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2680245567038059684}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: -90}
---- !u!114 &4305801567394435362
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2439622278343773308}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fa0186955909cc44d93b6d7234cad950, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  fovAngle: 90
-  fovPoint: {fileID: 2103422605091787880}
-  range: 8
-  layer:
-    serializedVersion: 2
-    m_Bits: 64
-  target: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &2998185663669867940
 GameObject:
   m_ObjectHideFlags: 0
@@ -232,13 +212,14 @@ GameObject:
   m_Component:
   - component: {fileID: 7505598803243543431}
   - component: {fileID: 6116553923168399572}
+  - component: {fileID: 5409058775287510625}
   m_Layer: 0
   m_Name: Camera
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &7505598803243543431
 Transform:
   m_ObjectHideFlags: 0
@@ -247,7 +228,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6533320262823414874}
   serializedVersion: 2
-  m_LocalRotation: {x: -0, y: 0, z: -0.70227724, w: -0.7119035}
+  m_LocalRotation: {x: -0, y: -0, z: -0.7022767, w: -0.71190417}
   m_LocalPosition: {x: -1.177, y: 4.353, z: -0.027770555}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -278,6 +259,25 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &5409058775287510625
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6533320262823414874}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa0186955909cc44d93b6d7234cad950, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  fovAngle: 0.7
+  fovPoint: {fileID: 2103422605091787880}
+  range: 8
+  layer:
+    serializedVersion: 2
+    m_Bits: 64
+  target: {fileID: 0}
 --- !u!1 &8373921803789756303
 GameObject:
   m_ObjectHideFlags: 0
