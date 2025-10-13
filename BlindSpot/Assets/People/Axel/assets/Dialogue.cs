@@ -13,4 +13,9 @@ public struct DialoguePiece
 public class Dialogue : MonoBehaviour
 {
     public List<DialoguePiece> dialogue;
+
+    public void StartDialogue()
+    {
+
+    }
 }
