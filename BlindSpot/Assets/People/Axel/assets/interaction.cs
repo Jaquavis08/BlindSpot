@@ -16,7 +16,7 @@ public class interaction : MonoBehaviour
 
         if (hit && hit.collider.TryGetComponent(out interactable Interactable))
         {
-            Debug.Log(hit.collider.gameObject.name);
+            Interactable.onInteract.Invoke();
         }
     }
 
