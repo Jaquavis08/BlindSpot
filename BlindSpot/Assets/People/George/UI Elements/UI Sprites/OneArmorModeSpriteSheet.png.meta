@@ -735,7 +735,31 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      OneArmorModeSpriteSheet_0: -8318628164793610511
+      OneArmorModeSpriteSheet_1: 1736305365815030721
+      OneArmorModeSpriteSheet_10: 4073610248507431724
+      OneArmorModeSpriteSheet_11: 3536870968056192835
+      OneArmorModeSpriteSheet_12: -3891070738735869332
+      OneArmorModeSpriteSheet_13: 6393982390637028458
+      OneArmorModeSpriteSheet_14: 3912691306523008273
+      OneArmorModeSpriteSheet_15: 6656393245013240800
+      OneArmorModeSpriteSheet_16: 5241743674925725999
+      OneArmorModeSpriteSheet_17: 4283269182770454265
+      OneArmorModeSpriteSheet_18: 2432451884867239757
+      OneArmorModeSpriteSheet_19: -9020538386222384108
+      OneArmorModeSpriteSheet_2: 6376323931290436174
+      OneArmorModeSpriteSheet_20: 658262410987694842
+      OneArmorModeSpriteSheet_21: 6939030129302023135
+      OneArmorModeSpriteSheet_22: 891883245294858229
+      OneArmorModeSpriteSheet_23: -6685603149260495511
+      OneArmorModeSpriteSheet_3: 3472647230157196592
+      OneArmorModeSpriteSheet_4: 1691077142328761363
+      OneArmorModeSpriteSheet_5: -4342574160924815135
+      OneArmorModeSpriteSheet_6: 5197971953274269523
+      OneArmorModeSpriteSheet_7: 8655977723883223949
+      OneArmorModeSpriteSheet_8: 3983489617890246430
+      OneArmorModeSpriteSheet_9: 8581816722897599411
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
