@@ -210,7 +210,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      UNICasettePlayer_0: -2194218357528631878
+      UNICasettePlayer_1: 6728732844726505997
+      UNICasettePlayer_2: 4494437141890670006
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
