@@ -14,6 +14,7 @@ public class FOV : MonoBehaviour
     {
         Vector2 old = target.position - transform.position;
         Vector2 dir = (new Vector2(old.y, -old.x)).normalized;
+        
         float angel = Vector3.Dot(dir, fovPoint.up);
         RaycastHit2D r = Physics2D.Raycast(fovPoint.position, old.normalized, range, layer);
 
