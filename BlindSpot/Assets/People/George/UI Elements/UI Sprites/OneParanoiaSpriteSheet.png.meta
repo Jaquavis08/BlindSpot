@@ -1,0 +1,1209 @@
+fileFormatVersion: 2
+guid: fd6c300defb940345a3c063929390ff5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6174804357241156905
+    second: OneParanoiaSpriteSheet_0
+  - first:
+      213: 6804013681294290434
+    second: OneParanoiaSpriteSheet_1
+  - first:
+      213: -4021311964233613981
+    second: OneParanoiaSpriteSheet_2
+  - first:
+      213: -6911761597270808488
+    second: OneParanoiaSpriteSheet_3
+  - first:
+      213: 8400618887762183789
+    second: OneParanoiaSpriteSheet_4
+  - first:
+      213: -9092558358944041367
+    second: OneParanoiaSpriteSheet_5
+  - first:
+      213: 5731945775116151513
+    second: OneParanoiaSpriteSheet_6
+  - first:
+      213: -3945794905743520165
+    second: OneParanoiaSpriteSheet_7
+  - first:
+      213: -1295815432663548029
+    second: OneParanoiaSpriteSheet_8
+  - first:
+      213: -331161960068546942
+    second: OneParanoiaSpriteSheet_9
+  - first:
+      213: 8765355563422354738
+    second: OneParanoiaSpriteSheet_10
+  - first:
+      213: 3104558106625488586
+    second: OneParanoiaSpriteSheet_11
+  - first:
+      213: 7779197410341515018
+    second: OneParanoiaSpriteSheet_12
+  - first:
+      213: -6170269182395640216
+    second: OneParanoiaSpriteSheet_13
+  - first:
+      213: 5104985919167174145
+    second: OneParanoiaSpriteSheet_14
+  - first:
+      213: -6991150402008511154
+    second: OneParanoiaSpriteSheet_15
+  - first:
+      213: -566200239240042789
+    second: OneParanoiaSpriteSheet_16
+  - first:
+      213: 8867533000379983037
+    second: OneParanoiaSpriteSheet_17
+  - first:
+      213: -5982103952800903843
+    second: OneParanoiaSpriteSheet_18
+  - first:
+      213: 5201239857678959148
+    second: OneParanoiaSpriteSheet_19
+  - first:
+      213: -546434444602822049
+    second: OneParanoiaSpriteSheet_20
+  - first:
+      213: -536750435524587315
+    second: OneParanoiaSpriteSheet_21
+  - first:
+      213: 1978127629345934358
+    second: OneParanoiaSpriteSheet_22
+  - first:
+      213: -3445630382967060840
+    second: OneParanoiaSpriteSheet_23
+  - first:
+      213: -8095648276467253603
+    second: OneParanoiaSpriteSheet_24
+  - first:
+      213: -2629090470856844150
+    second: OneParanoiaSpriteSheet_25
+  - first:
+      213: 2841071077989359584
+    second: OneParanoiaSpriteSheet_26
+  - first:
+      213: -5640921662674948284
+    second: OneParanoiaSpriteSheet_27
+  - first:
+      213: 6162359188352302051
+    second: OneParanoiaSpriteSheet_28
+  - first:
+      213: -5497929326685400555
+    second: OneParanoiaSpriteSheet_29
+  - first:
+      213: -7677868393401469697
+    second: OneParanoiaSpriteSheet_30
+  - first:
+      213: -1032430425490815217
+    second: OneParanoiaSpriteSheet_31
+  - first:
+      213: -755076132039249385
+    second: OneParanoiaSpriteSheet_32
+  - first:
+      213: 1785150165292418834
+    second: OneParanoiaSpriteSheet_33
+  - first:
+      213: 5534958524174583943
+    second: OneParanoiaSpriteSheet_34
+  - first:
+      213: 4915499629948554263
+    second: OneParanoiaSpriteSheet_35
+  - first:
+      213: 1827315072719943876
+    second: OneParanoiaSpriteSheet_36
+  - first:
+      213: -3985431623924228726
+    second: OneParanoiaSpriteSheet_37
+  - first:
+      213: -1500909254082398081
+    second: OneParanoiaSpriteSheet_38
+  - first:
+      213: 2824165124539167882
+    second: OneParanoiaSpriteSheet_39
+  - first:
+      213: 1502205386477999775
+    second: OneParanoiaSpriteSheet_40
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: OneParanoiaSpriteSheet_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 393
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7da4b111720be4aa0800000000000000
+      internalID: -6174804357241156905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OneParanoiaSpriteSheet_1
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 393
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20ea178d466bc6e50800000000000000
+      internalID: 6804013681294290434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OneParanoiaSpriteSheet_2
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 393
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36db3d8031e6138c0800000000000000
+      internalID: -4021311964233613981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OneParanoiaSpriteSheet_3
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 393
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 858ac76827d7410a0800000000000000
+      internalID: -6911761597270808488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OneParanoiaSpriteSheet_4
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 393
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d66808abe5ef49470800000000000000
+      internalID: 8400618887762183789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OneParanoiaSpriteSheet_5
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 393
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 966b1a3d85eb0d180800000000000000
+      internalID: -9092558358944041367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OneParanoiaSpriteSheet_6
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 329
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9da69953056fb8f40800000000000000
+      internalID: 5731945775116151513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OneParanoiaSpriteSheet_7
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 329
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5e8c9e5078bd39c0800000000000000
+      internalID: -3945794905743520165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OneParanoiaSpriteSheet_8
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 329
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38fbe91cab6540ee0800000000000000
+      internalID: -1295815432663548029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OneParanoiaSpriteSheet_9
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 329
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28efdfea3f9776bf0800000000000000
+      internalID: -331161960068546942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OneParanoiaSpriteSheet_10
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 329
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23d88cfa17cc4a970800000000000000
+      internalID: 8765355563422354738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OneParanoiaSpriteSheet_11
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 329
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac6b8f9362b951b20800000000000000
+      internalID: 3104558106625488586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OneParanoiaSpriteSheet_12
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 265
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0f6b0924d245fb60800000000000000
+      internalID: 7779197410341515018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OneParanoiaSpriteSheet_13
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 265
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86694cebedcce5aa0800000000000000
+      internalID: -6170269182395640216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OneParanoiaSpriteSheet_14
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 265
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 106945765ad88d640800000000000000
+      internalID: 5104985919167174145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OneParanoiaSpriteSheet_15
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 265
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4d04f400c17afe90800000000000000
+      internalID: -6991150402008511154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OneParanoiaSpriteSheet_16
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 265
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd62b5cd1e37428f0800000000000000
+      internalID: -566200239240042789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OneParanoiaSpriteSheet_17
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 265
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db4e3b9184ecf0b70800000000000000
+      internalID: 8867533000379983037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OneParanoiaSpriteSheet_18
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 201
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5d87d3462c4bfca0800000000000000
+      internalID: -5982103952800903843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OneParanoiaSpriteSheet_19
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 201
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c22ce8cd7148e2840800000000000000
+      internalID: 5201239857678959148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OneParanoiaSpriteSheet_20
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 201
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f52396c84ccaa68f0800000000000000
+      internalID: -546434444602822049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OneParanoiaSpriteSheet_21
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 201
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc0558d92541d88f0800000000000000
+      internalID: -536750435524587315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OneParanoiaSpriteSheet_22
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 201
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61ccc8b2998b37b10800000000000000
+      internalID: 1978127629345934358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OneParanoiaSpriteSheet_23
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 201
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89684f32c69ae20d0800000000000000
+      internalID: -3445630382967060840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OneParanoiaSpriteSheet_24
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 137
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9e7aaef8ca76af80800000000000000
+      internalID: -8095648276467253603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OneParanoiaSpriteSheet_25
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 137
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8c96327528938bd0800000000000000
+      internalID: -2629090470856844150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OneParanoiaSpriteSheet_26
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 137
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ef1131c7138d6720800000000000000
+      internalID: 2841071077989359584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OneParanoiaSpriteSheet_27
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 137
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44f247a72ab67b1b0800000000000000
+      internalID: -5640921662674948284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OneParanoiaSpriteSheet_28
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 137
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eb7a104809158550800000000000000
+      internalID: 6162359188352302051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OneParanoiaSpriteSheet_29
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 137
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 512d6ba186e63b3b0800000000000000
+      internalID: -5497929326685400555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OneParanoiaSpriteSheet_30
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 73
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff43b13106bb27590800000000000000
+      internalID: -7677868393401469697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OneParanoiaSpriteSheet_31
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 73
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0780518ff11ca1f0800000000000000
+      internalID: -1032430425490815217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OneParanoiaSpriteSheet_32
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 73
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 712bc6b224e6585f0800000000000000
+      internalID: -755076132039249385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OneParanoiaSpriteSheet_33
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 73
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2170cf00e9026c810800000000000000
+      internalID: 1785150165292418834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OneParanoiaSpriteSheet_34
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 73
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78842f7c37f10dc40800000000000000
+      internalID: 5534958524174583943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OneParanoiaSpriteSheet_35
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 73
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71cc5a8bedc573440800000000000000
+      internalID: 4915499629948554263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OneParanoiaSpriteSheet_36
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 9
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c8703a806deb5910800000000000000
+      internalID: 1827315072719943876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OneParanoiaSpriteSheet_37
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 9
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8d5363cd07e0b8c0800000000000000
+      internalID: -3985431623924228726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OneParanoiaSpriteSheet_38
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 9
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f78725e4cf2bb2be0800000000000000
+      internalID: -1500909254082398081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OneParanoiaSpriteSheet_39
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 9
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a84343bb733713720800000000000000
+      internalID: 2824165124539167882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OneParanoiaSpriteSheet_40
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 9
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9613b807d7e8d410800000000000000
+      internalID: 1502205386477999775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      OneParanoiaSpriteSheet_0: -6174804357241156905
+      OneParanoiaSpriteSheet_1: 6804013681294290434
+      OneParanoiaSpriteSheet_10: 8765355563422354738
+      OneParanoiaSpriteSheet_11: 3104558106625488586
+      OneParanoiaSpriteSheet_12: 7779197410341515018
+      OneParanoiaSpriteSheet_13: -6170269182395640216
+      OneParanoiaSpriteSheet_14: 5104985919167174145
+      OneParanoiaSpriteSheet_15: -6991150402008511154
+      OneParanoiaSpriteSheet_16: -566200239240042789
+      OneParanoiaSpriteSheet_17: 8867533000379983037
+      OneParanoiaSpriteSheet_18: -5982103952800903843
+      OneParanoiaSpriteSheet_19: 5201239857678959148
+      OneParanoiaSpriteSheet_2: -4021311964233613981
+      OneParanoiaSpriteSheet_20: -546434444602822049
+      OneParanoiaSpriteSheet_21: -536750435524587315
+      OneParanoiaSpriteSheet_22: 1978127629345934358
+      OneParanoiaSpriteSheet_23: -3445630382967060840
+      OneParanoiaSpriteSheet_24: -8095648276467253603
+      OneParanoiaSpriteSheet_25: -2629090470856844150
+      OneParanoiaSpriteSheet_26: 2841071077989359584
+      OneParanoiaSpriteSheet_27: -5640921662674948284
+      OneParanoiaSpriteSheet_28: 6162359188352302051
+      OneParanoiaSpriteSheet_29: -5497929326685400555
+      OneParanoiaSpriteSheet_3: -6911761597270808488
+      OneParanoiaSpriteSheet_30: -7677868393401469697
+      OneParanoiaSpriteSheet_31: -1032430425490815217
+      OneParanoiaSpriteSheet_32: -755076132039249385
+      OneParanoiaSpriteSheet_33: 1785150165292418834
+      OneParanoiaSpriteSheet_34: 5534958524174583943
+      OneParanoiaSpriteSheet_35: 4915499629948554263
+      OneParanoiaSpriteSheet_36: 1827315072719943876
+      OneParanoiaSpriteSheet_37: -3985431623924228726
+      OneParanoiaSpriteSheet_38: -1500909254082398081
+      OneParanoiaSpriteSheet_39: 2824165124539167882
+      OneParanoiaSpriteSheet_4: 8400618887762183789
+      OneParanoiaSpriteSheet_40: 1502205386477999775
+      OneParanoiaSpriteSheet_5: -9092558358944041367
+      OneParanoiaSpriteSheet_6: 5731945775116151513
+      OneParanoiaSpriteSheet_7: -3945794905743520165
+      OneParanoiaSpriteSheet_8: -1295815432663548029
+      OneParanoiaSpriteSheet_9: -331161960068546942
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
