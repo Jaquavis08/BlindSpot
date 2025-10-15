@@ -14,8 +14,14 @@ public class Dialogue : MonoBehaviour
 {
     public List<DialoguePiece> dialogue;
 
+    public TMPro.TMP_Text dialogueName;
+    public TMPro.TMP_Text dialogueText;
+
     public void StartDialogue()
     {
-        Debug.Log("Bing Bada Bada Bing Bada Bada Bing");
+        gameObject.SetActive(true);
+
+        dialogueName.SetText("testing");
+        dialogueText.SetText("testing");
     }
 }
