@@ -29,12 +29,11 @@ public class FOV : MonoBehaviour
                 //Player Spotted
                 
                 print("Spotted");
-                //PlayerCamera.instance.shake = true;
-                PlayerCamera.instance.camFollowPlayer();
+                
             }
             else
             {
-               // PlayerCamera.instance.shake = false;
+
                 print("Not there");
             }
 
