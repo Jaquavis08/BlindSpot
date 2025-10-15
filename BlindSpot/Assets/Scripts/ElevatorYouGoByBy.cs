@@ -3,6 +3,8 @@ using UnityEngine;
 
 public class ElevatorYouGoByBy : MonoBehaviour
 {
+   // [SerializeField] bool goNext
+
     public void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.CompareTag("Playera"))
