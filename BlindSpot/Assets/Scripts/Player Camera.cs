@@ -1,32 +1,13 @@
 using UnityEngine;
-using System.Collections;
-using System;
 
 public class PlayerCamera : MonoBehaviour
 {
-    public static PlayerCamera instance;
-    public float crazy;
-    public float shakeAmount = 0.7f;
-    public float decreaseFactor = 1.0f;
     GameObject Player;
     bool followPlayer = true;
-    Vector3 originalPos;
-    public bool shake = false;
-
-    public Transform camTransform;
-    //--------------------------------------------------------------------
+    // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        Player = GameObject.FindGameObjectWithTag("Playera");
-        //if (camTransform == null)
-        //{
-        //    camTransform = Camera.main.transform;
-        //}
-        //originalPos = camTransform.localPosition;
-    }
-    private void Awake()
-    {
-        instance = this;
+        Player = GameObject.FindGameObjectWithTag("Player");
     }
 
     // Update is called once per frame
@@ -43,24 +24,9 @@ public class PlayerCamera : MonoBehaviour
         followPlayer = val;
     }
 
-    public void camFollowPlayer()
+    void camFollowPlayer()
     {
-        StopCoroutine(SetCameraBack());
-        StartCoroutine(SetCameraBack());
-        
         Vector3 newPos = new Vector3(Player.transform.position.x, Player.transform.position.y, this.transform.position.z);
         this.transform.position = newPos;
-    }
-
-    private IEnumerator SetCameraBack()
-    {
-        if(shake)
-        {
-            crazy = UnityEngine.Random.Range(1f, 2f);
-            camTransform.localPosition = new Vector2(originalPos.x + crazy * shakeAmount, originalPos.y + crazy * shakeAmount);
-            yield return new WaitForSeconds(1);
-            camTransform.localPosition = originalPos;
-        }
-        
     }
 }
