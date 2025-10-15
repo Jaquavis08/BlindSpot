@@ -1,14 +1,16 @@
-using Unity.VisualScripting;
 using UnityEngine;
 
 public class FOV : MonoBehaviour
 {
+    
     public float fovAngle = 5f;
     public Transform fovPoint;
     public float range = 8;
     public LayerMask layer;
+    
 
     public Transform target;
+    
 
     private void Update()
     {
@@ -25,20 +27,25 @@ public class FOV : MonoBehaviour
             if (r.collider && r.collider.CompareTag("Playera"))
             {
                 //Player Spotted
+                
                 print("Spotted");
-               
+                //PlayerCamera.instance.shake = true;
+                PlayerCamera.instance.camFollowPlayer();
             }
             else
             {
+               // PlayerCamera.instance.shake = false;
                 print("Not there");
             }
-            
+
         }
     }
+    
 
     private void OnDrawGizmos()
     {
         Vector3 dir = (target.position - transform.position).normalized;
         Gizmos.DrawLine(fovPoint.position, fovPoint.position + dir * range);
     }
+
 }
