@@ -11,13 +11,13 @@ public class PlayerCamera : MonoBehaviour
     }
 
     // Update is called once per frame
-    void Update()
-    {
-        if (followPlayer == true)
-        {
-            camFollowPlayer();
-        }    
-    }
+   // void Update()
+   // {
+   //     if (followPlayer == true)
+   //     {
+   //         camFollowPlayer();
+   //     }    
+   // }
 
     public void setFollowPlayer(bool val)
     {
