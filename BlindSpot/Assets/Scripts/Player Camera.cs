@@ -18,11 +18,11 @@ public class PlayerCamera : MonoBehaviour
     void Start()
     {
         Player = GameObject.FindGameObjectWithTag("Playera");
-        //if (camTransform == null)
-        //{
-        //    camTransform = Camera.main.transform;
-        //}
-        //originalPos = camTransform.localPosition;
+        if (camTransform == null)
+        {
+            camTransform = Camera.main.transform;
+        }
+        originalPos = camTransform.localPosition;
     }
     private void Awake()
     {

@@ -16,6 +16,6 @@ public class Dialogue : MonoBehaviour
 
     public void StartDialogue()
     {
-
+        Debug.Log("Bing Bada Bada Bing Bada Bada Bing");
     }
 }
