@@ -552,6 +552,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3367215282596524095}
   - component: {fileID: 1436066594310415835}
+  - component: {fileID: 5667627925563474574}
   m_Layer: 0
   m_Name: Transition
   m_TagString: Untagged
@@ -620,6 +621,18 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1.5920286, y: 0.26422834}
   m_EdgeRadius: 0
+--- !u!114 &5667627925563474574
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5073477788001050978}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 522d8d23506fc0249bbbc657445cc618, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &5190719198533575705
 GameObject:
   m_ObjectHideFlags: 0
