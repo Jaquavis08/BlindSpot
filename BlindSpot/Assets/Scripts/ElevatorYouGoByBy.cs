@@ -8,6 +8,7 @@ public class ElevatorYouGoByBy : MonoBehaviour
         if (collision.CompareTag("Playera"))
         {
             //go to next level
+            SceneController.instance.NextLevel();
         }
     }
 }
