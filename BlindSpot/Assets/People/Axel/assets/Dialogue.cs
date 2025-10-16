@@ -24,4 +24,9 @@ public class Dialogue : MonoBehaviour
         dialogueName.SetText("testing");
         dialogueText.SetText("testing");
     }
+
+    public IEnumerator WriteDialoguePiece()
+    {
+
+    }
 }
